@@ -1,0 +1,12 @@
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.csproj.AssemblyReference.cache
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.AssemblyInfoInputs.cache
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.AssemblyInfo.cs
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.csproj.CoreCompileInputs.cache
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\bin\Debug\net9.0\RabbitMqLib.deps.json
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\bin\Debug\net9.0\RabbitMqLib.dll
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\bin\Debug\net9.0\RabbitMqLib.pdb
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.dll
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\refint\RabbitMqLib.dll
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\RabbitMqLib.pdb
+C:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\dotnet\RabbitMqLib\obj\Debug\net9.0\ref\RabbitMqLib.dll
