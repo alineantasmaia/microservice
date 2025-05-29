@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj": {
+    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj",
+        "projectUniqueName": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj",
         "projectName": "RabbitMqLib",
-        "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj",
+        "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj",
         "packagesPath": "C:\\Users\\a1087482\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\obj\\",
+        "outputPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a1087482\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\a1087482\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a1087482\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj": {
-                "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj"
+              "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj": {
+                "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj"
               }
             }
           }

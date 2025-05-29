@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uKx638d3p0I=",
+  "dgSpecHash": "mD46NOnO/oU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\RabbitMqLib\\RabbitMqLib.csproj",
+  "projectFilePath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\dotnet\\github\\microservice\\RabbitMqLib\\RabbitMqLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a1087482\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\a1087482\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
